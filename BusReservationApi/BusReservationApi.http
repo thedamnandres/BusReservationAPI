@@ -3,4 +3,4 @@
 GET {{BusReservationApi_HostAddress}}/weatherforecast/
 Accept: application/json
 
-###
+
